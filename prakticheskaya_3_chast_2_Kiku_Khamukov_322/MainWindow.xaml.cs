@@ -20,6 +20,7 @@ namespace prakticheskaya_3_chast_2_Kiku_Khamukov_322
     /// </summary>
     public partial class MainWindow : Window
     {
+
         public MainWindow()
         {
             InitializeComponent();
