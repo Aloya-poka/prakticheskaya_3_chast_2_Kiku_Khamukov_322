@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35303.130
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "prakticheskaya_3_chast_2_Kiku_Khamukov_322", "prakticheskaya_3_chast_2_Kiku_Khamukov_322\prakticheskaya_3_chast_2_Kiku_Khamukov_322.csproj", "{2D8F98A8-7C1F-48AB-84FE-7131EAFC528B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2D8F98A8-7C1F-48AB-84FE-7131EAFC528B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D8F98A8-7C1F-48AB-84FE-7131EAFC528B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D8F98A8-7C1F-48AB-84FE-7131EAFC528B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D8F98A8-7C1F-48AB-84FE-7131EAFC528B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C675DC18-3E8E-4D8C-B97D-98439A389144}
+	EndGlobalSection
+EndGlobal
